@@ -1,6 +1,8 @@
 Bugsnag Notification Plugin Creation Guide
 ==========================================
 
+[![Join the chat at https://gitter.im/Jarred-Sumner/bugsnag-notification-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jarred-Sumner/bugsnag-notification-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bugsnag.com can notify you when errors happen in your applications.
 We've created a plugin architecture so you can contribute notification 
 plugins for services you use.
